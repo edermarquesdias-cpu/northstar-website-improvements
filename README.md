@@ -10,6 +10,40 @@ The goal was to take an existing website with visible layout, mobile and usabili
 
 The work focused on practical improvements that could be delivered efficiently while preserving the original website's core structure.
 
+## Live Demo
+
+[View Live Website](https://northstar-home-services-woad.vercel.app)
+
+## Before & After
+
+### Desktop — Before
+
+![NorthStar before desktop](docs/images/before-desktop.webp)
+
+### Desktop — After
+
+![NorthStar after desktop](docs/images/after-desktop.webp)
+
+### Mobile — Before
+
+![NorthStar before mobile](docs/images/before-mobile.webp)
+
+### Mobile — After
+
+![NorthStar after mobile](docs/images/after-mobile.webp)
+
+## Responsive Improvements
+
+![NorthStar responsive improvements](docs/images/responsive-fixes.webp)
+
+## UI Improvements
+
+![NorthStar UI improvements](docs/images/ui-improvements.webp)
+
+## Full Case Study
+
+A more detailed breakdown of the audit, fixes, responsive improvements, QA process and final positioning is available in [`docs/case-study.md`](docs/case-study.md).
+
 ## What Was Improved
 
 - technical and visual audit;
